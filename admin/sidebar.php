@@ -131,7 +131,7 @@
             <!-- Add your header content here -->
         </div>
         <ul>
-            <li><a href="">Dashboard</a></li>
+            <li><a href="dashbrd.php">Dashboard</a></li>
             <li><a href="inventory.php">Inventory</a></li>
             <li><a href="med_nventory.php">Medicine List</a></li>
             <li><a href="med_category.php">Medicine Category</a></li>
